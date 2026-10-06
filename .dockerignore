@@ -1,0 +1,9 @@
+.venv
+__pycache__
+.pytest_cache
+tests
+*.log
+.git
+.env
+.env.*
+.streamlit
